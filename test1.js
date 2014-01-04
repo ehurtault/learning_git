@@ -2,6 +2,6 @@ var git = hub;
 
 console.log(git);
 
-function new function (argument) {
+function function (argument) {
 	console.log(argument);
 }
