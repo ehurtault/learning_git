@@ -2,6 +2,8 @@ var git = hub;
 
 console.log(git);
 
-function function (argument) {
+function (argument) {
 	console.log(argument);
-}
+};
+
+var newLine = 'Github edit';
